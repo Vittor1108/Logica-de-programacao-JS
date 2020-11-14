@@ -1,0 +1,21 @@
+Chegou a hora de praticar.
+
+Em alguns pontos deste treinamento vou pedir para você praticar o que vimos te dando algumas tarefas e desafios. Aproveite para se auto-avaliar. Nessa primeira tarefa, você poderá fazer o download do recurso dessa aula e criar o código que está comentado. Abaixo, segue a descrição.
+
+//pedir para o usuario digitar um numero
+                                    
+//converter em numero inteiro
+                                    
+//pedir para o usuario digitar outro numero
+                        
+//converter em numero inteiro
+                        
+/* mostar em um alert o seguinte texto 
+O resto da divisão de (n1) por (n2) é: (resultado:);
+*/
+
+/* mostar em um alert o seguinte texto 
+O numero (n1) elevado à (n2) é: (resultado);
+*/
+
+Bons estudos
